@@ -1,2 +1,2 @@
 a:tetris.cpp	IBlock.h	SBlock_inh.h
-	g++	tetris.cpp	
+		g++	tetris.cpp
